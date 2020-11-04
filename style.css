@@ -1,0 +1,11 @@
+button{
+    display: inline-block;
+    width: 110px;
+    color:black;
+    background-color: blanchedalmond;
+    border: none;
+    
+}
+h3{
+    display: inline;
+}
